@@ -10,7 +10,7 @@ A **FastAPI-based REST API** that classifies legal contract clauses by risk leve
 
 The landing page introduces the Legal Risk Classifier — explaining what the tool does and how it helps users quickly assess risk in legal documents.
 
-![Landing Page](assets/landing-page.png)
+![Landing Page](landing-page.png)
 
 ---
 
@@ -18,7 +18,7 @@ The landing page introduces the Legal Risk Classifier — explaining what the to
 
 The features page highlights key capabilities of the platform — including single clause prediction, batch processing, confidence scoring, and API access.
 
-![Features Page](assets/features-page.png)
+![Features Page](features-page.png)
 
 ---
 
@@ -26,7 +26,7 @@ The features page highlights key capabilities of the platform — including sing
 
 A companion browser extension lets users highlight any legal clause on a webpage and instantly get a risk classification — without leaving the browser.
 
-![Browser Extension](assets/browser-extension.png)
+![Browser Extension](browser-extension.png)
 
 ---
 
@@ -34,7 +34,7 @@ A companion browser extension lets users highlight any legal clause on a webpage
 
 Users can log in to access the full dashboard, saved analyses, and API key management.
 
-![Login Page](assets/login-page.png)
+![Login Page](login-page.png)
 
 ---
 
