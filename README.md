@@ -8,7 +8,7 @@ A **FastAPI-based REST API** that classifies legal contract clauses by risk leve
 
 ## 🌐 Landing Page
 
-The landing page introduces the Legal Risk Classifier — explaining what the tool does and how it helps users quickly assess risk in legal documents.
+The landing page introduces the Legal Risk Classifier — explaining what the tool does and how it helps users quickly assess risk in legal documents..
 
 ![Landing Page](landing-page.png)
 
